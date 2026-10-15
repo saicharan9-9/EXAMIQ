@@ -1,6 +1,7 @@
 # EXAMIQ — Exam Score Intelligence
 
 EXAMIQ is a machine learning-powered exam score prediction application built with Python and Streamlit. It uses a trained XGBoost regression pipeline to predict student exam scores from academic and study-related features.
+Check out It is live right now : https://examiq-bdrwrhbx75rm3jwcwb4mag.streamlit.app/
 
 ## Features
 
